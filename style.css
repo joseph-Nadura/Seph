@@ -183,7 +183,7 @@ span{
 }
 
 .image img {
-  width: min(22.6rem, 100%);
+  width: min(20.6rem, 100%);
   border-radius:50%;
   border:.15rem solid orange;
 }
@@ -219,7 +219,7 @@ span{
 }
 
 .images img {
-  width: min(20.6rem, 100%);
+  width: min(20rem, 100%);
   border-radius:30px;
   margin-top:3rem;
   border:.15rem solid orange;
